@@ -1,0 +1,12 @@
+{
+  "name": "encouragement-app",
+  "version": "1.0.0",
+  "description": "Simple web app with full JS structures",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
